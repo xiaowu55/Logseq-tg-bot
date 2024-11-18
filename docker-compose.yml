@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  lupin:
+    build: .
+    container_name: lupin-bot
+    restart: unless-stopped
+    volumes:
+      - ./config:/app/config
+      - ./logs:/app/logs
+    environment:
+      - TZ=Asia/Shanghai 

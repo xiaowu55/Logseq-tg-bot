@@ -1,0 +1,7 @@
+2024-11-17 22:03:48.076 | INFO     | __main__:start:87 - 正在启动 Lupin Bot...
+2024-11-17 22:03:48.077 | ERROR    | __main__:start:94 - 启动 bot 失败: 'MessageHandler' object has no attribute 'handle_text'
+2024-11-17 22:03:48.078 | ERROR    | __main__:main:123 - 程序运行出错: 'MessageHandler' object has no attribute 'handle_text'
+2024-11-17 22:04:39.222 | ERROR    | __main__:main:123 - 程序运行出错: 'Settings' object has no attribute 'JOURNALS_FOLDER'
+2024-11-17 22:05:37.967 | INFO     | __main__:start:87 - 正在启动 Lupin Bot...
+2024-11-17 22:05:37.971 | ERROR    | __main__:start:94 - 启动 bot 失败: MessageHandler.__init__() takes 1 positional argument but 3 were given
+2024-11-17 22:05:37.972 | ERROR    | __main__:main:123 - 程序运行出错: MessageHandler.__init__() takes 1 positional argument but 3 were given
